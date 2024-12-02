@@ -1,0 +1,103 @@
+# Windows system files
+Thumbs.db
+ehthumbs.db
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows image file thumbnails
+*.Thumbs.db
+
+# IDE/editor files (Visual Studio, VS Code, JetBrains, etc.)
+.vscode/
+.idea/
+.vs/
+.vs2019/
+.vs2017/
+.sublime-workspace
+.sublime-project
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Java (Eclipse, IntelliJ, Maven, Gradle)
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+
+# Ruby
+.bundle/
+Gemfile.lock
+vendor/
+
+# Composer (PHP)
+vendor/
+composer.lock
+
+# Build artifacts and directories
+/dist/
+/build/
+/out/
+
+# Log files
+*.log
+*.out
+*.swp
+*.swo
+
+# Environment files (sensitive data)
+.env
+.env.local
+.env.*.local
+.env.test
+.env.production
+
+# JetBrains IDEs (IntelliJ, PyCharm, WebStorm, etc.)
+.idea/
+
+# .NET files (Visual Studio)
+bin/
+obj/
+
+# Windows swap files
+*.swp
+*.swo
+
+# Windows-specific temporary files
+*~ 
+
+# macOS system files (in case you work across multiple OSes)
+.DS_Store
+
+# Backup files
+*.bak
+*.tmp
+
+# Package lock files (optional based on your use case)
+package-lock.json
+yarn.lock
+
+# Other IDE or editor specific
+*.sublime-workspace
+*.sublime-project
+
+# Temporary files created by various editors
+*.swp
+*.swo
+*.bak
+*.tmp
